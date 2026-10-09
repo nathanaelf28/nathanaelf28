@@ -12,8 +12,8 @@ Atualmente, estou focado em aprimorar minhas habilidades e construir soluções 
 
 <div align="center">
   <a href="https://github.com/nathanaelf28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanaelsouls&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelsouls&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanaelf28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelf28&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -37,6 +37,6 @@ Vamos trocar uma ideia! Me encontre nas redes abaixo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/nathanaelfs_28/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/nathanael-santana-9366a3174/ )
-[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nathanaelsouls](https://www.twitch.tv/nathanlivegame))
+[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nathanaelf28](https://www.twitch.tv/nathanlivegame))
 <!-- Se tiver Twitch, Twitter ou outra rede, pode adicionar aqui! -->
 
